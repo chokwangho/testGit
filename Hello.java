@@ -1,8 +1,8 @@
 public class Hello{
 	public static void main(String[] args){
 		System.out.println("Hello");
-		System.out.prinln("Changes after first commit");
-
+		System.out.println("Changes after first commit");
+		System.out.println("Changes aftef Pushing to remote!");
 }
 }
 
